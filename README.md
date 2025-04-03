@@ -2,7 +2,7 @@
 <!-- I'm [Meral Taşdemir](https://github.com/MeralTd/) -->
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Meral+👋;I+am+a+Software+Engineer;Welcome+to+my+Github+profile!+:%29)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Meral+👋;I+am+a+Software+Engineer;Welcome+to+my+Github+profile!+:%29)](https://git.io/typing-svg)
 
 <!--
 **MeralTd/MeralTd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
